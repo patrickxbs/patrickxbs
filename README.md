@@ -1,6 +1,6 @@
 ##### `<Welcomeﾠto my github 🚀>`
 ---
-What's up! I'm Patrick and Studyng Back-end
+What's up! I'm Patrick 
 ---
 👩‍💻 Studing java developer
 
