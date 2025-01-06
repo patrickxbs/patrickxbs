@@ -2,7 +2,7 @@
 ---
 What's up! I'm Patrick 
 ---
-👩‍💻 Studing java developer
+👩‍💻 Studying java developer
 
 🎓 Undergraduate in Information Systems at [UFBA](https://www.ufba.br/)
 
